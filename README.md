@@ -41,6 +41,17 @@ The repository is organized week-wise to map the learning modules and hands-on e
 - Explored React components (functional & class), state, props, hooks, event handling, routing, and interacting with APIs (Fetch/Axios).
 - **Application Debugging**: Debugging frontend applications using Chrome DevTools.
 
+### 📁 Week-6: React Integration, Testing & Deployment
+
+Built full-stack applications by integrating React front-end with Spring Boot REST APIs.
+
+React–Spring Boot Integration: Connected React applications with Spring Boot backend using Fetch API and Axios, handling CRUD operations and JSON data exchange.
+Advanced React Concepts: Implemented forms, controlled components, validation, state management, lifecycle methods, hooks (useState, useEffect), and reusable components.
+Testing: Performed unit testing for React components and Spring Boot applications using Jest, React Testing Library, JUnit 5, and Mockito.
+Authentication & Security: Explored JWT-based authentication, role-based authorization, and secured REST APIs using Spring Security.
+Deployment & DevOps: Built production-ready applications, containerized services using Docker, managed source code with Git, and practiced CI/CD workflows for automated build and deployment.
+Mini Full-Stack Project: Developed and integrated end-to-end applications demonstrating communication between React front-end and Spring Boot microservices with database connectivity.
+
 ---
 
 ## Getting Started
