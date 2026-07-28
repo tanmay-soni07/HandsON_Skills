@@ -1,0 +1,1 @@
+public class Main{static int f(Book[]b,String t){for(int i=0;i<b.length;i++)if(b[i].title.equals(t))return i;return -1;}public static void main(String[]a){Book[]b={new Book(1,"Java","James")};System.out.println(f(b,"Java"));}}
