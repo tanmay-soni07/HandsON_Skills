@@ -41,16 +41,13 @@ The repository is organized week-wise to map the learning modules and hands-on e
 - Explored React components (functional & class), state, props, hooks, event handling, routing, and interacting with APIs (Fetch/Axios).
 - **Application Debugging**: Debugging frontend applications using Chrome DevTools.
 
-### 📁 Week-6: React Integration, Testing & Deployment
-
-Built full-stack applications by integrating React front-end with Spring Boot REST APIs.
-
-React–Spring Boot Integration: Connected React applications with Spring Boot backend using Fetch API and Axios, handling CRUD operations and JSON data exchange.
-Advanced React Concepts: Implemented forms, controlled components, validation, state management, lifecycle methods, hooks (useState, useEffect), and reusable components.
-Testing: Performed unit testing for React components and Spring Boot applications using Jest, React Testing Library, JUnit 5, and Mockito.
-Authentication & Security: Explored JWT-based authentication, role-based authorization, and secured REST APIs using Spring Security.
-Deployment & DevOps: Built production-ready applications, containerized services using Docker, managed source code with Git, and practiced CI/CD workflows for automated build and deployment.
-Mini Full-Stack Project: Developed and integrated end-to-end applications demonstrating communication between React front-end and Spring Boot microservices with database connectivity.
+### 📁 Week-6: Full Stack Integration, Testing & Deployment
+- **React–Spring Boot Integration:** Connected React applications with Spring Boot backend using Fetch API and Axios to perform CRUD operations and exchange JSON data.
+- **Advanced React Development:** Built reusable components, implemented forms, controlled components, form validation, React Hooks (`useState`, `useEffect`), routing, and state management.
+- **Testing:** Performed unit testing for both front-end and back-end applications using Jest, React Testing Library, JUnit 5, and Mockito.
+- **Spring Security:** Explored authentication and authorization concepts, including securing REST APIs with Spring Security and JWT-based authentication.
+- **Docker & CI/CD:** Containerized applications using Docker, managed source code with Git, and practiced Continuous Integration and Continuous Deployment (CI/CD) workflows.
+- **Full-Stack Project:** Developed and deployed end-to-end applications by integrating React, Spring Boot, and relational databases, following industry-standard development practices.
 
 ---
 
